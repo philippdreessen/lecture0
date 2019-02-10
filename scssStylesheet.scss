@@ -1,0 +1,27 @@
+$imageWidth=80%;
+img{
+  padding: 10px;
+  width: $imageWidth;
+}
+
+table{
+  tr{
+    th{
+      background-color: NavajoWhite;
+    }
+    td{
+      background-color: Cornsilk;
+    }
+  }
+}
+
+%story{
+  padding: 10px;
+  background-color: RosyBrown;
+  font-family: Brush Script MT, Brush Script Std, cursive;
+}
+
+.scssStory {
+  @extend %story;
+  color: DarkSlateGrey;
+}
