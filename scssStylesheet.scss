@@ -1,8 +1,13 @@
-$imageWidth:80%;
+$imageWidth:60%;
 
-img{
+#chickenpicture{
   padding: 10px;
   width: $imageWidth;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+
 }
 
 table{

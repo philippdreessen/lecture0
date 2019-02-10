@@ -1,6 +1,9 @@
-img {
+#chickenpicture {
   padding: 10px;
-  width: 80%;
+  width: 60%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 table tr th {
   background-color: NavajoWhite;
